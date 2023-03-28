@@ -13,6 +13,9 @@ do RV.
 o usuário esteja sem internet
 - Dê preferências a apis que oferecem imagens, para fazer-se o uso da lib glide
 
+## API:
+https://catboys.com/api
+
 ## Integrantes:
 
 Gabriel Cursino De Jesus Moura
