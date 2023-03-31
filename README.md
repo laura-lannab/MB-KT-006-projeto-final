@@ -18,11 +18,11 @@ https://pokeapi.co/
 
 ## Integrantes:
 
-⚈ Gabriel Cursino De Jesus Moura
-⚈ Francine Eliza Progoveski Cavalcante
-⚈ João Carlos Martins De Almeida
-⚈ Júlia Marques de Oliveira Fonsêca
-⚈ Laura Lanna Brandão
+- Gabriel Cursino De Jesus Moura
+- Francine Eliza Progoveski Cavalcante
+- João Carlos Martins De Almeida
+- Júlia Marques de Oliveira Fonsêca
+- Laura Lanna Brandão
 
 
 
