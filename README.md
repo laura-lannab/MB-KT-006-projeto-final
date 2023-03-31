@@ -14,15 +14,15 @@ o usuário esteja sem internet
 - Dê preferências a apis que oferecem imagens, para fazer-se o uso da lib glide
 
 ## API:
-https://catboys.com/api
+https://pokeapi.co/
 
 ## Integrantes:
 
-Gabriel Cursino De Jesus Moura
-Francine Eliza Progoveski Cavalcante
-João Carlos Martins De Almeida
-Júlia Marques de Oliveira Fonsêca
-Laura Lanna Brandão
+⚈ Gabriel Cursino De Jesus Moura
+⚈ Francine Eliza Progoveski Cavalcante
+⚈ João Carlos Martins De Almeida
+⚈ Júlia Marques de Oliveira Fonsêca
+⚈ Laura Lanna Brandão
 
 
 
